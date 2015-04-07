@@ -1,4 +1,4 @@
-# Next
+# Nex
 Simplify CRM
 
 By utilizing Nexmo and Zoho CRM, we may use Contact page for customer relationship, so that users could give feedbacks
